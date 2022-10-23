@@ -1,0 +1,2485 @@
+{
+  "courses": [{
+    "num": "4562",
+    "name": "Principles of Business Management",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4518",
+    "name": "Intro to Business",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4524",
+    "name": "Accounting Fundamentals",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5914",
+    "name": "Fundamentals of Marketing",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5984",
+    "name": "Sports and Entertainment Market",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5966",
+    "name": "Entrepreneurship",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1514",
+    "name": "Economics",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1566",
+    "name": "AP/IB Microeconomics",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1564",
+    "name": "AP/IB Macroeconomics",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4512",
+    "name": "Business Math",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4540",
+    "name": "Personal Financial Responsibility",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "6142",
+    "name": "ACP Business Administration",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5394",
+    "name": "Preparing for College and Career",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5232",
+    "name": "Interactive Media",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5962",
+    "name": "Merchandising",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4528",
+    "name": "Digital Apps and Responsibility",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4803",
+    "name": "Intro to Computer Science",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4568",
+    "name": "AP Computer Science Principles",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4574",
+    "name": "Web Design",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4801",
+    "name": "Computer Science 1",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4570",
+    "name": "AP Computer Science A",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5253",
+    "name": "CS III: Cybersecurity",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5249",
+    "name": "CS III: Software Development",
+    "credit": "Business, Marketing, and Computer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5342",
+    "name": "Nutrition and Wellness",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "7161",
+    "name": "Principles of Teaching",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5362",
+    "name": "Child Development",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5360",
+    "name": "Advanced Child Development",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5364",
+    "name": "Interpersonal Relations",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5380",
+    "name": "Intro to Fashion and Textiles",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5380",
+    "name": "Advanced Fashion and Textiles",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5350",
+    "name": "Intro Housing and Interior Design",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Either"
+  }, {
+    "num": "5330",
+    "name": "Adult Roles and Responsibilities",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5334",
+    "name": "Consumer Economics",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "5460",
+    "name": "Housing/Interior Design Careers",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5420",
+    "name": "Fashion/Textiles Careers",
+    "credit": "Family and Consumer Science",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1002",
+    "name": "English 9",
+    "credit": "English / Language Arts",
+    "year": "9",
+    "length": "Year"
+  }, {
+    "num": "1002",
+    "name": "Honors English 9",
+    "credit": "English / Language Arts",
+    "year": "9",
+    "length": "Year"
+  }, {
+    "num": "1002",
+    "name": "English 9 (ENL)",
+    "credit": "English / Language Arts",
+    "year": "9",
+    "length": "Year"
+  }, {
+    "num": "1004",
+    "name": "English 10",
+    "credit": "English / Language Arts",
+    "year": "10",
+    "length": "Year"
+  }, {
+    "num": "1004",
+    "name": "Honors English 10",
+    "credit": "English / Language Arts",
+    "year": "10",
+    "length": "Year"
+  }, {
+    "num": "1004",
+    "name": "English 10 (ENL)",
+    "credit": "English / Language Arts",
+    "year": "10",
+    "length": "Year"
+  }, {
+    "num": "1006",
+    "name": "English 11 (ENL)",
+    "credit": "English / Language Arts",
+    "year": "11",
+    "length": "Year"
+  }, {
+    "num": "1008",
+    "name": "English 12 (ENL)",
+    "credit": "English / Language Arts",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "1056",
+    "name": "The American Experience",
+    "credit": "English / Language Arts",
+    "year": "11",
+    "length": "Year"
+  }, {
+    "num": "1130",
+    "name": "IB English, Year 1",
+    "credit": "English / Language Arts",
+    "year": "11",
+    "length": "Year"
+  }, {
+    "num": "1130",
+    "name": "IB English, Year 2",
+    "credit": "English / Language Arts",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "1056",
+    "name": "AP English Lang. and Comp.",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1058",
+    "name": "AP English Lit. and Comp.",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "0552",
+    "name": "AP Seminar",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "0551",
+    "name": "AP Research",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1124",
+    "name": "ACP Composition",
+    "credit": "English / Language Arts",
+    "year": "12",
+    "length": "Semester"
+  }, {
+    "num": "1124",
+    "name": "ACP Speech",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1124",
+    "name": "ACP Literature",
+    "credit": "English / Language Arts",
+    "year": "12",
+    "length": "Semester"
+  }, {
+    "num": "1124",
+    "name": "ACP Discovering Literature",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1008",
+    "name": "English 12 (Ivy Tech)",
+    "credit": "English / Language Arts",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "1090",
+    "name": "Composition",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1092",
+    "name": "Creative Writing",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1070",
+    "name": "Debate",
+    "credit": "English / Language Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1074",
+    "name": "Critical Thinking and Argument",
+    "credit": "English / Language Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1034",
+    "name": "Film Literature",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Either"
+  }, {
+    "num": "1036",
+    "name": "Graphic Novels",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1036",
+    "name": "Science Fiction",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1036",
+    "name": "True Crime",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1048",
+    "name": "Teen Issues in YA Lit.",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1048",
+    "name": "War Literature",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1048",
+    "name": "Life in Literature and Sports",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1048",
+    "name": "Own Voices",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1076",
+    "name": "Speech I",
+    "credit": "English / Language Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1078",
+    "name": "Advanced Speech",
+    "credit": "English / Language Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Either"
+  }, {
+    "num": "1080",
+    "name": "Journalism",
+    "credit": "English / Language Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "0532",
+    "name": "College-Entrance Prep",
+    "credit": "English / Language Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1086",
+    "name": "Newspaper Prod. I, II, III",
+    "credit": "English / Language Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1086",
+    "name": "Yearbook Prod. I, II, III",
+    "credit": "English / Language Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2520",
+    "name": "Algebra",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2516",
+    "name": "Algebra Enrichment",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2532",
+    "name": "Geometry",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2532",
+    "name": "Honors Geometry",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2522",
+    "name": "Algebra II",
+    "credit": "Mathematics",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2522",
+    "name": "Honors Algebra II",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10",
+      "11"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2524",
+    "name": "Analytical Algebra",
+    "credit": "Mathematics",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": [
+      "2564",
+      "2566"
+    ],
+    "name": "Pre-Calculus / Trigonometry",
+    "credit": "Mathematics",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2564",
+    "name": "Honors Pre-Calc / Trig",
+    "credit": "Mathematics",
+    "year": [
+      "10",
+      "11"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2550",
+    "name": "Quantitative Reasoning",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "2546",
+    "name": "Probability and Statistics",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "2570",
+    "name": "AP Statistics",
+    "credit": "Mathematics",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2544",
+    "name": "College Algebra (Ivy Tech)",
+    "credit": "Mathematics",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "2544",
+    "name": "ACP Business Calculus",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2544",
+    "name": "ACP Finite Math",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2562",
+    "name": "AP Calculus AB",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2572",
+    "name": "AP Calculus BC",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2544",
+    "name": "Multivariable Calculus",
+    "credit": "Mathematics",
+    "year": "12",
+    "length": "Semester"
+  }, {
+    "num": "2544",
+    "name": "Differential Equations",
+    "credit": "Mathematics",
+    "year": "12",
+    "length": "Semester"
+  }, {
+    "num": "2590",
+    "name": "IB Math: Analysis and Appr. HL",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2588",
+    "name": "IB Math: Analysis and Appr. SL",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2594",
+    "name": "IB Math: Appl. and Interp. HL",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2592",
+    "name": "IB Math: Appl. and Interp. SL",
+    "credit": "Mathematics",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4146",
+    "name": "Dance Performance",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4142",
+    "name": "Dance II: Choreography",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1086",
+    "name": "HS Student Media: Intro",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1086",
+    "name": "HS Student Media: Announce.",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1086",
+    "name": "HS Student Media: Video / Sound",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4166",
+    "name": "Concert Orchestra (Beginning)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4172",
+    "name": "Philharmonic Orchestra (Int.)",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4172",
+    "name": "Chamber Orchestra (Int.)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4174",
+    "name": "Symphony Orchestra (Adv.)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4160",
+    "name": "Concert Band",
+    "credit": "Performing Arts",
+    "year": "9",
+    "length": "Year"
+  }, {
+    "num": "4168",
+    "name": "Symphonic Band Red",
+    "credit": "Performing Arts",
+    "year": "9",
+    "length": "Year"
+  }, {
+    "num": "4168",
+    "name": "Symphonic Band Silver",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4168",
+    "name": "Symphonic Band Gold",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4170",
+    "name": "Wind Symphony",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4170",
+    "name": "Wind Ensemble",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4164",
+    "name": "Jazz Ensemble",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4162",
+    "name": "Percussion Ensemble",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4204",
+    "name": "Piano / Keyboard: Beginning",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4204",
+    "name": "Piano / Keyboard: Intermediate",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4210",
+    "name": "AP / IB Music Theory",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4260",
+    "name": "IB / DC Music History and Appr.",
+    "credit": "Performing Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4182",
+    "name": "Sotto Vocé (Beginning Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4182",
+    "name": "Statesmen (Beginning Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4186",
+    "name": "Cantus (Intermediate Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4186",
+    "name": "Cantabile (Intermediate Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4188",
+    "name": "Sound (Advanced Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4188",
+    "name": "Electrum (Advanced Choir)",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4244",
+    "name": "Tech Theatre I and II",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4242",
+    "name": "Theatre Arts: Acting I and II",
+    "credit": "Performing Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4242",
+    "name": "Theatre Arts: Acting III and IV",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4254",
+    "name": "Theatre: Advanced Acting",
+    "credit": "Performing Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4248",
+    "name": "Theatre Production",
+    "credit": "Performing Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4272",
+    "name": "IB Film, SL",
+    "credit": "Performing Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3506",
+    "name": "Health and Wellness Education",
+    "credit": "Physical Education and Health",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3500",
+    "name": "Sports Medicine I",
+    "credit": "Physical Education and Health",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3500",
+    "name": "Sports Medicine II",
+    "credit": "Physical Education and Health",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3542",
+    "name": "Physical Education (P.E.) I",
+    "credit": "Physical Education and Health",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3544",
+    "name": "Physical Education (P.E.) II",
+    "credit": "Physical Education and Health",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3560",
+    "name": "Coed Recreational Games",
+    "credit": "Physical Education and Health",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3560",
+    "name": "Weight Training",
+    "credit": "Physical Education and Health",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3560",
+    "name": "Advanced Physical Conditioning (APC)",
+    "credit": "Physical Education and Health",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3024",
+    "name": "Biology I",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3024",
+    "name": "Honors Biology I",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3044",
+    "name": "Earth and Space Science",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3108",
+    "name": "Integrated Chemistry Physics",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3064",
+    "name": "Chemistry I",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  },{
+    "num": "3064",
+    "name": "Honors Chemistry I",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3064",
+    "name": "Physics I",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5276",
+    "name": "Anatomy and Physiology",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3092",
+    "name": "Zoology",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Human Genetics",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Microbiology",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Forensic Science",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3092",
+    "name": "Intro to Neuroscience",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Oceanography",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Organic Chemistry",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Astronomy I",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Astronomy II",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Meteorology",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Geology",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3092",
+    "name": "Material Science",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "3090",
+    "name": "IB / DC Anatomy / Physiology",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": [
+      "3020",
+      "3032"
+    ],
+    "name": "AP Biology / IB Biology Y2",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3090",
+    "name": "ACP Biology",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3072",
+    "name": "ACP/IB Chemistry",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3060",
+    "name": "AP Chemistry",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3012",
+    "name": "AP Environmental Science",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3080",
+    "name": "AP Physics I / IB Physics Y1",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3081",
+    "name": "AP Physics 2 / IB Physics Y2",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "3088",
+    "name": "AP Physics C",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5218",
+    "name": "PLTW: Principles of Biomed",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5216",
+    "name": "PLTW: Human Body Systems",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5217",
+    "name": "PLTW: Medical Interventions",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5219",
+    "name": "PLTW: Biomed. Innovations",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4802",
+    "name": "PLTW: Intro to Engineering",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5644",
+    "name": "PLTW: Principles of Engineering",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5538",
+    "name": "PLTW: Digital Electronics",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4728",
+    "name": "Robotics Design and Innovation",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5650",
+    "name": "Civil Engineering / Architecture",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5518",
+    "name": "Aerospace Engineering",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5534",
+    "name": "Comp Integrated Manufacturing",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5698",
+    "name": "Engineering Design and Development",
+    "credit": "Science ",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "7117",
+    "name": "Principles of Agriculture",
+    "credit": "Science ",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5008",
+    "name": "Animal Science",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5070",
+    "name": "ALS: Animals",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5132",
+    "name": "Horticulture Science",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5180",
+    "name": "Natural Resources",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5228",
+    "name": "Supervised Ag Experience",
+    "credit": "Science ",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "5002",
+    "name": "Agricultural Management",
+    "credit": "Science ",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1570",
+    "name": "Geography and History of World",
+    "credit": "Social Studies",
+    "year": [
+      "9",
+      "10"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1548",
+    "name": "World History",
+    "credit": "Social Studies",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1612",
+    "name": "AP World History: Modern",
+    "credit": "Social Studies",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1572",
+    "name": "AP Human Geography",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1526",
+    "name": "Law Education",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1512",
+    "name": "Current Issues",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1542",
+    "name": "U.S. History",
+    "credit": "Social Studies",
+    "year": "11",
+    "length": "Year"
+  }, {
+    "num": "1542",
+    "name": "The American Experience",
+    "credit": "Social Studies",
+    "year": "11",
+    "length": "Year"
+  }, {
+    "num": "1562",
+    "name": "AP U.S. History",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1556",
+    "name": "AP / IB European History",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1538",
+    "name": "Global Studies",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1550",
+    "name": "Comparative Religions",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1538",
+    "name": "Constitutional Law",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1588",
+    "name": "IB World Religions SL",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": [
+      "1534",
+      "1574"
+    ],
+    "name": "Sociology (or DC Sociology)",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1532",
+    "name": "Psychology",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1558",
+    "name": "AP / IB SL Psychology",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1604",
+    "name": "IB Psychology HL",
+    "credit": "Social Studies",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "1540",
+    "name": "U.S. Government",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1574",
+    "name": "ACP U.S. Government",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1574",
+    "name": "ACP Gov / We the People",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1560",
+    "name": "AP US Government and Politics",
+    "credit": "Social Studies",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1552",
+    "name": "AP Comparative Government",
+    "credit": "Social Studies",
+    "year": "12",
+    "length": "Semester"
+  }, {
+    "num": "1518",
+    "name": "Indiana Studies",
+    "credit": "Social Studies",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1516",
+    "name": "Ethnic Studies",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1500",
+    "name": "African Studies",
+    "credit": "Social Studies",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1520",
+    "name": "International Relations",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1578",
+    "name": "IB Global Politics SL",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "1538",
+    "name": "Race / America: African Amer.",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "1550",
+    "name": "Sports Psychology",
+    "credit": "Social Studies",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4060",
+    "name": "Drawing I",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4002",
+    "name": "Intro to 2D Art",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4006",
+    "name": "Intro to 3D Art",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4066",
+    "name": "Printmaking",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "0520",
+    "name": "Peer Art Education",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4062",
+    "name": "Intro / Digital Art Photography",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4062",
+    "name": "Digital Photography I and II",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4060",
+    "name": "Drawing II",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4060",
+    "name": "Drawing III and IV",
+    "credit": "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4086",
+    "name": "Vis Comm: Graphic Design 1",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4086",
+    "name": "Vis Comm: Graphic Design 2",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "semester"
+  }, {
+    "num": "4064",
+    "name": "Painting I and II",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4064",
+    "name": "Painting III",
+    "credit":  "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": [
+      "4090",
+      "4092"
+    ],
+    "name": "IB Visual Arts SL or HL",
+    "credit": "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4048",
+    "name": "AP Drawing",
+    "credit": "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4050",
+    "name": "AP 2D Art and Design",
+    "credit": "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4052",
+    "name": "AP 3D Art and Design",
+    "credit": "Visual Arts",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "4040",
+    "name": "Ceramics I",
+    "credit": "Visual Arts",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4040",
+    "name": "Ceramics II and III",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4042",
+    "name": "Jewelry I and II: Metalsmithing",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "4044",
+    "name": "Sculpture I and II",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length" : "Semester"
+  }, {
+    "num": "4025",
+    "name": "AP Art History",
+    "credit": "Visual Arts",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": [
+      "2020",
+      "2310"
+    ],
+    "name": "French I / IB ab initio",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2022",
+    "name": "French II (Reg or Honors)",
+    "credit": "World Language",
+    "year": [ 
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2024",
+    "name": "French III (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2026",
+    "name": "French IV (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2032",
+    "name": "AP / IB French V",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2120",
+    "name": "Spanish I",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2122",
+    "name": "Spanish II (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2124",
+    "name": "Spanish III (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2126",
+    "name": "Spanish IV (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2132",
+    "name": "AP / IB Spanish V",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2132",
+    "name": "AP Spanish V",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2126",
+    "name": "Adv CC Spanish",
+    "credit": "World Language",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": "2040",
+    "name": "German I",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2042",
+    "name": "German II (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2044",
+    "name": "German III (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2046",
+    "name": "German IV (Reg or Honors)",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2052",
+    "name": "AP / IB German V",
+    "credit": "World Language",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2156",
+    "name": "American Sign Language 1",
+    "credit": "World Language",
+    "year":[ 
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "2158",
+    "name": "American Sign Language 2",
+    "credit": "World Language",
+    "year": "12",
+    "length": "Year"
+  }, {
+    "num": [
+      "2190",
+      "2192"
+    ],
+    "name": "Lang. Heritage Speakers I / II",
+    "credit": "World Language",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "0500",
+    "name": "Basic Skills Development",
+    "credit": "Multidisciplinary",
+    "year": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Either"
+  }, {
+    "num": "0520",
+    "name": "Peer Tutoring I and II",
+    "credit": "Multidisciplinary",
+    "year": [
+      "10",
+      "11",
+      "12"
+    ],
+    "length": "Semester"
+  }, {
+    "num": "0560",
+    "name": "Theory of Knowledge",
+    "credit": "Multidisciplinary",
+    "year": [
+      "11",
+      "12"
+    ],
+    "length": "Year"
+  }, {
+    "num": "0502",
+    "name": "Cadet Teaching I and II",
+    "credit": "Multidisciplinary",
+    "year": "12",
+    "length": "Either"
+  }, {
+    "num": "0530",
+    "name": "Internship (Career Expl.)",
+    "credit": "Multidisciplinary",
+    "year": "12",
+    "length": "Either"
+  }]
+}
